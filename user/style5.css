@@ -1,0 +1,33 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+   }
+body{
+    min-height: 100vh;
+  width: 100%;
+}
+   .table{
+    background-color: silver;
+}
+
+   
+#h2{
+    text-align: center;
+    padding: 1rem;
+    font-size: 45px;
+    margin-bottom: 0%;
+    font-weight: 900;
+    background-color: midnightblue;
+    color: gainsboro;
+    
+}
+#btn4{
+  display: flex;
+  margin: 4% 44%;
+  font-size: 17px;
+    padding: 4px;
+  
+}

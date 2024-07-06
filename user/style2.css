@@ -1,0 +1,59 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Poppins', sans-serif;
+ }
+ body{
+  width: 100%; /* Full width */
+  height: 100vh; /* Full height of the viewport */
+  background-image: url('top-view-books-with-copy-space.jpg'); /* Path to your image */
+  background-size: cover; /* Cover the entire div */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+ }
+
+
+#Welcome_h1{
+   padding: 3rem;
+  text-align: center;
+  font-size: xxx-large;
+  background-color: slategrey;
+  color: ghostwhite;
+  margin-bottom: 90px;
+}
+.buttons{
+      display: flex;
+      justify-content: center; /* centers horizontally */
+      align-items: center; /* centers vertically */
+      height:30vh; /* full height of the viewport */
+      flex-direction: column;
+      
+  }
+  #btn1{
+   font-size: 2rem;
+   padding: 26px;
+   margin-bottom: 15px;
+   margin-top: 27px;
+  }
+  #btn2{
+    font-size: 2rem;
+    padding: 26px;
+    margin-bottom: 15px;
+   }
+   #btn3{
+    font-size: 2rem;
+    padding: 26px;
+    margin-bottom: 15px;
+   }
+   #btn4{
+    font-size: 2rem;
+    padding: 26px;
+    margin-bottom: 15px;
+   }
+     
+
+
+  
+  
+   
